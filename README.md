@@ -41,7 +41,7 @@ This Python script automatically organizes files in a specified folder into cate
 folder = r"C:\Path\To\Your\Folder"
 
 
-Example Structure
+## Example Structure
 
 After running the script, a folder might look like this:
 
