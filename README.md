@@ -39,3 +39,32 @@ This Python script automatically organizes files in a specified folder into cate
 1. Set the path of the folder you want to organize in the `folder` variable:
 ```python
 folder = r"C:\Path\To\Your\Folder"
+
+
+Example Structure
+
+After running the script, a folder might look like this:
+
+Studia/
+├─ Documents/
+│  ├─ PDF/
+│  ├─ Word/
+│  ├─ Excel/
+│  └─ PowerPoint/
+├─ Images/
+├─ Matlab/
+└─ Programming/
+
+Requirements
+
+Python 3.x
+
+No additional libraries required (uses built-in os and shutil modules)
+
+Future Improvements
+
+Add a GUI for easier usage.
+
+Allow dynamic configuration of file types and folders.
+
+Add logging to track moved files.
