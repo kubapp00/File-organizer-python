@@ -39,7 +39,7 @@ This Python script automatically organizes files in a specified folder into cate
 1. Set the path of the folder you want to organize in the `folder` variable:
 ```python
 folder = r"C:\Path\To\Your\Folder"
-
+---
 
 ## Example Structure
 
